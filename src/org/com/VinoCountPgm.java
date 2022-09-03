@@ -16,7 +16,11 @@ public class VinoCountPgm {
 		}
 		System.out.println(count);
 		
-		
+		System.out.println("vinoth");
+		System.out.println("iyappa");
+		System.out.println("vinoth1");
+		System.out.println("iyappa1");
+
 		
 		
 		
